@@ -39,19 +39,19 @@ You are required to ensure the recording only contains one activity. For example
 If you accidentally collect less data for one activity please redo the recording.
 
 
-Walking
+Walking<br>
 Find a space where you can walk in a straight line for 100 steps or take as few sudden turns as possible. Walk at a normal pace and try to not stop during the recording.
 
-Running or Jogging
+Running or Jogging<br>
 Find a space where you can run or jog in a straight line for 100 steps or take as few sudden turns as possible. Try to not stop during the recording.
 
-Ascending stairs
+Ascending stairs<br>
 Find a space where you can continuously climb a flight of stairs for 100 steps, for example Appleton Tower. Walk up the stairs at a normal pace and do not stop for the 30 seconds of the recording.
 
-Descending stairs
+Descending stairs<br>
 Find a space where you can continuously descend a flight of stairs for 100 steps, for example Appleton Tower. Walk down the stairs at a normal pace and do not stop for the 30 seconds of the recording.
 
-Shuffle walking 
+Shuffle walking <br>
 Find a space where you can walk slowly in a straight line for 100 steps or take as few sudden turns as possible. Walking in differernt patterns, example can be found in https://www.youtube.com/watch?v=k-Tk2rZfbyc
 
 ## 6. Obtaining the recorded files
