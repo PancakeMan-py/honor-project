@@ -32,7 +32,7 @@ Hit Start Recording when you are all set up. When you are done with a recording,
 ## 5.Activity descriptions
 
 
-Please record each activity for 30 seconds!
+Please record each activity for 100 steps
 
 You are required to ensure the recording only contains one activity. For example, if you start recording data for walking and you only start moving after the first 3 seconds, you should trim the first 3 seconds of this recording, as they are not representative of the walking activity. The total length of your recordings AFTER TRIMMING should be 100 steps.
 
@@ -51,7 +51,7 @@ Find a space where you can continuously climb a flight of stairs for 100 steps, 
 Descending stairs<br>
 Find a space where you can continuously descend a flight of stairs for 100 steps, for example Appleton Tower. Walk down the stairs at a normal pace and do not stop for 100 steps of the recording.
 
-Shuffle walking <br> 步履蹒跚
+Shuffle walking <br> 
 Find a space where you can walk slowly in a straight line for 100 steps or take as few sudden turns as possible. Walking in differernt patterns, example can be found in https://www.youtube.com/watch?v=k-Tk2rZfbyc
 
 ## 6. Obtaining the recorded files
